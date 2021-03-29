@@ -1,2 +1,0 @@
-# TafeProductApp
-Tafe Product Application
